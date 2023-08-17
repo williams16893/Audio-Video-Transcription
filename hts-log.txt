@@ -1,0 +1,187 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 12 Jul 2023 09:24:21 at https://aurisai.io/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aurisai.io/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE -O1 "C:\My Web Sites\rotimi" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+09:31:23	Error: 	"Forbidden" (403) at link https://aurisai.io/wp-content/plugins/elementskit/modules/parallax/ (from https://aurisai.io/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:31:24	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://aurisai.io/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:38:06	Error: 	"Not Found" (404) at link https://aurisai.io/?page_id=9921 (from https://aurisai.io/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:39:41	Error: 	"Not Found" (404) at link https://aurisai.io/freelancers/ (from https://aurisai.io/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:41:31	Error: 	"Not Found" (404) at link https://wisepops.net/loader.js?v=1&site=RYjLRrQDeF (from https://aurisai.io/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:43:55	Error: 	"Not Found" (404) at link https://aurisai.io/jp/?page_id=9921 (from https://aurisai.io/jp/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:45:19	Error: 	"Not Found" (404) at link https://aurisai.io/jp/freelancers/ (from https://aurisai.io/jp/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:48:16	Error: 	"Not Found" (404) at link https://aurisai.io/id/?page_id=9921 (from https://aurisai.io/id/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:50:10	Error: 	"Not Found" (404) at link https://aurisai.io/id/freelancers/ (from https://aurisai.io/id/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:51:27	Error: 	"Error when decompressing" (-1) at link https://aurisai.io/zh/转录/ (from https://aurisai.io/zh/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:51:27	Error: 	"Error when decompressing" (-1) at link https://aurisai.io/zh/字幕/ (from https://aurisai.io/zh/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:52:40	Error: 	"Not Found" (404) at link https://aurisai.io/zh/?page_id=9921 (from https://aurisai.io/zh/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:53:43	Error: 	"Not Found" (404) at link https://aurisai.io/zh/freelancers/ (from https://aurisai.io/zh/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:56:15	Error: 	"Not Found" (404) at link https://aurisai.io/hi/?page_id=9921 (from https://aurisai.io/hi/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:57:16	Error: 	"Not Found" (404) at link https://aurisai.io/hi/freelancers/ (from https://aurisai.io/hi/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+09:59:49	Error: 	"Not Found" (404) at link https://aurisai.io/ur/?page_id=9921 (from https://aurisai.io/ur/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+10:00:55	Error: 	"Not Found" (404) at link https://aurisai.io/ur/freelancers/ (from https://aurisai.io/ur/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+10:03:39	Error: 	"Not Found" (404) at link https://aurisai.io/vi/?page_id=9921 (from https://aurisai.io/vi/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+10:04:51	Error: 	"Not Found" (404) at link https://aurisai.io/vi/freelancers/ (from https://aurisai.io/vi/?gclid=CjwKCAjw3ueiBhBmEiwA4BhspJ1L4mzQ0LphtW4AdvWXcTxQ0r01uw_YV5ThsC1TX4QB7AiR_l05ORoC1EQQAvD_BwE)
+10:06:10	Warning: 	Moved Permanently for https://aurisai.io/?p=8087
+10:06:10	Warning: 	File has moved from https://aurisai.io/?p=8087 to https://aurisai.io/transcription/
+10:06:10	Warning: 	Moved Permanently for https://aurisai.io/?p=8151
+10:06:10	Warning: 	File has moved from https://aurisai.io/?p=8151 to https://aurisai.io/subtitle/
+10:06:11	Warning: 	Moved Permanently for https://aurisai.io/?p=5401
+10:06:11	Warning: 	File has moved from https://aurisai.io/?p=5401 to https://aurisai.io/tools/
+10:06:11	Error: 	"Not Found" (404) at link https://aurisai.io/trim-audio/ (from https://aurisai.io/tools/)
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=5729
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=5729 to https://aurisai.io/transcribe-audio/
+10:06:47	Error: 	"Not Found" (404) at link https://aurisai.io/wp-content/uploads/2022/06/chinese-flag.png (from https://aurisai.io/transcribe-audio/)
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=5754
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=5754 to https://aurisai.io/transcribe-video/
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=5837
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=5837 to https://aurisai.io/translate-audio/
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=5763
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=5763 to https://aurisai.io/translate-video/
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=5779
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=5779 to https://aurisai.io/add-subtitles-to-video/
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=6377
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=6377 to https://aurisai.io/export-captions/
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=5808
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=5808 to https://aurisai.io/customise-subtitle-font/
+10:06:47	Warning: 	Moved Permanently for https://aurisai.io/?p=5817
+10:06:47	Warning: 	File has moved from https://aurisai.io/?p=5817 to https://aurisai.io/add-dual-language-subtitles/
+10:06:48	Warning: 	Moved Permanently for https://aurisai.io/?p=5793
+10:06:48	Warning: 	File has moved from https://aurisai.io/?p=5793 to https://aurisai.io/export-video-to-youtube/
+10:06:48	Warning: 	Moved Permanently for https://aurisai.io/?p=10685
+10:06:48	Warning: 	File has moved from https://aurisai.io/?p=10685 to https://aurisai.io/business/
+10:06:48	Warning: 	Moved Permanently for https://aurisai.io/?p=9881
+10:06:48	Warning: 	File has moved from https://aurisai.io/?p=9881 to https://aurisai.io/marketers/
+10:06:57	Warning: 	Moved Permanently for https://aurisai.io/?p=9905
+10:06:57	Warning: 	File has moved from https://aurisai.io/?p=9905 to https://aurisai.io/teachers/
+10:06:58	Warning: 	Moved Permanently for https://aurisai.io/?p=9911
+10:06:58	Warning: 	File has moved from https://aurisai.io/?p=9911 to https://aurisai.io/students/
+10:06:58	Warning: 	Moved Permanently for https://aurisai.io/?p=4254
+10:06:58	Warning: 	File has moved from https://aurisai.io/?p=4254 to https://aurisai.io/creators/
+10:06:59	Warning: 	Moved Permanently for https://aurisai.io/?p=12831
+10:06:59	Warning: 	File has moved from https://aurisai.io/?p=12831 to https://aurisai.io/pricing/
+10:06:59	Warning: 	Moved Permanently for https://aurisai.io/?p=6837
+10:06:59	Warning: 	File has moved from https://aurisai.io/?p=6837 to https://aurisai.io/transcribe-bahasa-indonesia/
+10:06:59	Warning: 	Moved Permanently for https://aurisai.io/?p=6849
+10:06:59	Warning: 	File has moved from https://aurisai.io/?p=6849 to https://aurisai.io/transcribe-hindi/
+10:06:59	Warning: 	Moved Permanently for https://aurisai.io/?p=6865
+10:06:59	Warning: 	File has moved from https://aurisai.io/?p=6865 to https://aurisai.io/transcribe-khmer/
+10:06:59	Warning: 	Moved Permanently for https://aurisai.io/?p=6884
+10:06:59	Warning: 	File has moved from https://aurisai.io/?p=6884 to https://aurisai.io/transcribe-tagalog-filipino/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=6902
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=6902 to https://aurisai.io/transcribe-burmese/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=6920
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=6920 to https://aurisai.io/transcribe-japanese/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=6938
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=6938 to https://aurisai.io/transcribe-korean/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=6956
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=6956 to https://aurisai.io/transcribe-tamil/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=7001
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=7001 to https://aurisai.io/transcribe-chinese/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=6985
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=6985 to https://aurisai.io/transcribe-malay/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=6973
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=6973 to https://aurisai.io/transcribe-thai/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=5910
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=5910 to https://aurisai.io/transcribe-english/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=7002
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=7002 to https://aurisai.io/transcribe-vietnamese/
+10:07:00	Warning: 	Moved Permanently for https://aurisai.io/?p=2899
+10:07:00	Warning: 	File has moved from https://aurisai.io/?p=2899 to https://aurisai.io/blog/
+10:11:04	Error: 	Exit requested by shell or user
+10:11:04	Warning: 	File not added due to mirror cancel: https://aurisai.io/wp-json/wp/v2/doc_category/255
+10:11:06	Warning: 	Moved Permanently for https://aurisai.io/?p=4067
+10:11:06	Warning: 	File has moved from https://aurisai.io/?p=4067 to https://aurisai.io/about/
+10:11:06	Error: 	"Method Not Allowed" (405) at link https://aurisai.io/xmlrpc.php (from https://aurisai.io/privacy-policy/)
+10:11:06	Warning: 	Moved Permanently for https://aurisai.io/?p=3
+10:11:06	Warning: 	File has moved from https://aurisai.io/?p=3 to https://aurisai.io/privacy-policy/
+10:11:06	Warning: 	Moved Permanently for https://aurisai.io/?p=1635
+10:11:06	Warning: 	File has moved from https://aurisai.io/?p=1635 to https://aurisai.io/terms-of-service/
+10:11:06	Warning: 	Moved Permanently for https://aurisai.io/chrome-extension://
+10:11:06	Warning: 	Redirected link is identical because of 'URL Hack' option: https://aurisai.io/chrome-extension:// and https://aurisai.io/chrome-extension:/
+10:11:06	Warning: 	File has moved from https://aurisai.io/chrome-extension:// to https://aurisai.io/chrome-extension:/
+10:11:06	Error: 	"Not Found" (404) at link https://aurisai.io/^([^:/? (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+10:11:06	Error: 	"Not Found" (404) at link https://aurisai.io/restserver.php (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+10:11:06	Error: 	"Not Found" (404) at link https://aurisai.io/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+10:11:06	Error: 	"Not Found" (404) at link https://aurisai.io/GET (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+10:11:06	Error: 	"Not Found" (404) at link https://aurisai.io/dialog/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+10:11:06	Error: 	"Not Found" (404) at link https://aurisai.io/LiveChatEvent/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+10:11:06	Error: 	"Not Found" (404) at link https://aurisai.io/rsrc.php/ (from https://connect.facebook.net/en_US/sdk/xfbml.customerchat.js)
+10:11:06	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=8087
+10:11:06	Warning: 	File has moved from https://aurisai.io/jp/?p=8087 to https://aurisai.io/jp/transcription/
+10:11:06	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=8151
+10:11:06	Warning: 	File has moved from https://aurisai.io/jp/?p=8151 to https://aurisai.io/jp/subtitle/
+10:11:07	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5401
+10:11:07	Warning: 	File has moved from https://aurisai.io/jp/?p=5401 to https://aurisai.io/jp/tools/
+10:11:07	Error: 	"Not Found" (404) at link https://aurisai.io/jp/trim-audio/ (from https://aurisai.io/jp/tools/)
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5729
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5729 to https://aurisai.io/jp/transcribe-audio/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5754
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5754 to https://aurisai.io/jp/transcribe-video/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5837
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5837 to https://aurisai.io/jp/translate-audio/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5763
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5763 to https://aurisai.io/jp/translate-video/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5779
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5779 to https://aurisai.io/jp/add-subtitles-to-video/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6377
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6377 to https://aurisai.io/jp/export-captions/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5808
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5808 to https://aurisai.io/jp/customise-subtitle-font/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5817
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5817 to https://aurisai.io/jp/add-dual-language-subtitles/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5793
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5793 to https://aurisai.io/jp/export-video-to-youtube/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=10685
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=10685 to https://aurisai.io/jp/business/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=9881
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=9881 to https://aurisai.io/jp/marketers/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=9905
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=9905 to https://aurisai.io/jp/teachers/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=9911
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=9911 to https://aurisai.io/jp/students/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=4254
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=4254 to https://aurisai.io/jp/creators/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=12831
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=12831 to https://aurisai.io/jp/pricing/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6837
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6837 to https://aurisai.io/jp/transcribe-bahasa-indonesia/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6849
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6849 to https://aurisai.io/jp/transcribe-hindi/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6865
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6865 to https://aurisai.io/jp/transcribe-khmer/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6884
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6884 to https://aurisai.io/jp/transcribe-tagalog-filipino/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6902
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6902 to https://aurisai.io/jp/transcribe-burmese/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6920
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6920 to https://aurisai.io/jp/transcribe-japanese/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6938
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6938 to https://aurisai.io/jp/transcribe-korean/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6956
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6956 to https://aurisai.io/jp/transcribe-tamil/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=7001
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=7001 to https://aurisai.io/jp/transcribe-chinese/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6985
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6985 to https://aurisai.io/jp/transcribe-malay/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=6973
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=6973 to https://aurisai.io/jp/transcribe-thai/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=5910
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=5910 to https://aurisai.io/jp/transcribe-english/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=7002
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=7002 to https://aurisai.io/jp/transcribe-vietnamese/
+10:11:10	Warning: 	Moved Permanently for https://aurisai.io/jp/?p=2899
+10:11:10	Warning: 	File has moved from https://aurisai.io/jp/?p=2899 to https://aurisai.io/jp/blog/
+10:11:11	Error: 	Exit requested by shell or user
+10:11:11	Error: 	"" (-1) at link https://aurisai.io/jp/blog/category/translation/ (from https://aurisai.io/jp/blog/)
+10:11:11	Error: 	Exit requested by shell or user
+
+HTTrack Website Copier/3.49-2 mirror complete in 46 minutes 50 seconds : 2315 links scanned, 1998 files written (231695080 bytes overall) [114437729 bytes received at 40725 bytes/sec], 148809563 bytes transferred using HTTP compression in 1065 files, ratio 15%, 40.3 requests per connection
+(34 errors, 138 warnings, 0 messages)
+* * MIRROR ABORTED! * *
+The current temporary cache is required for any update operation and only contains data downloaded during the present aborted session.
+The former cache might contain more complete information; if you do not want to lose that information, you have to restore it and delete the current cache.
+This can easily be done here by erasing the hts-cache/new.* files]
